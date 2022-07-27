@@ -15,7 +15,7 @@ const ShowBook = () => {
   };
 
   return (
-    <div className="mx-20 mt-10 overflow-x-auto">
+    <div className="mx-2 lg:mx-20 mt-10 overflow-x-auto">
       <table className="table w-full">
         <thead>
           <tr>
